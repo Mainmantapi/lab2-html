@@ -1,0 +1,2 @@
+This project intends to demonstrate the creation of a well-structured HTML5 webpage using semantic elements and implements an HTML5 form with built-in validation.
+The code is then validated using the W3C Validator to check for any errors that need to be fixed,and if error-free, the code is added, committed and pushed to GitHub.
